@@ -1,2 +1,2 @@
 # Resources
-This repository contains cheat sheets, some good analytical and my favorite books
+This repository contains cheat sheets and my favorite books
